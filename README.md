@@ -1,4 +1,4 @@
-# MacOS Sequoia Beta 3 - Z590 Elite AX
+# MacOS Sequoia Beta 4 - Z590 Elite AX
 
 # Information:
 **MB: Aorus Z590 Elite AX**
