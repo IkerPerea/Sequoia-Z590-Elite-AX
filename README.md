@@ -43,4 +43,4 @@
 
 ## What does not work?
 
-For me everything works, but it is a Beta, so might stop working anytime.
+Airdrop and iPhone Mirroring won't work until airport-itlwm is updated
